@@ -18,7 +18,11 @@ Your goal will be to create a visualization and prepare a write up describing th
 
 ## Files
 
+* weather-trends.sql - SQL queries for exporting the csv data
 * hamburg.csv - Contains the yearly average temperature (ºC) for Hamburg from 1743 to 2013 
 * global.csv - Contains the yearly average temperature (ºC) for Hamburg from 1750 to 2015
 
+## Google Spreadsheet
+
+* https://docs.google.com/spreadsheets/d/1-UtRMAqC0199YZkY9JQSEMOONwjFYuIxqIoBXdWjOBY
 
